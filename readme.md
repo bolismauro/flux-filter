@@ -1,2 +1,3 @@
 A sample application created using Flux Architecture
-see also [this repo](https://github.com/bolismauro/fluxboilerplate)
+
+See also [this repo](https://github.com/bolismauro/fluxboilerplate)
