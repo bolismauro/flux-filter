@@ -1,6 +1,1 @@
 .DS_Store
-*.html
-*.css
-public/js/vendor/*
-!public/js/vendor/requirejs.min.js
-!public/js/vendor/JSXTransformer.js
