@@ -1,0 +1,26 @@
+{
+  "name": "Test Flux",
+  "version": "0.0.0",
+  "authors": [
+    "Mauro Bolis <bolismauro@gmail.com>"
+  ],
+  "description": "a flux test app",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.10.0",
+    "fluxxor": "~1.2.0",
+    "requirejs-text": "~2.0.12",
+    "requirejs-jsx": "*",
+    "reqwest": "~1.1.0"
+  }
+}
